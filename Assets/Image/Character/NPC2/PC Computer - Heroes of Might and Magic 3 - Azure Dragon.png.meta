@@ -1,0 +1,4043 @@
+fileFormatVersion: 2
+guid: 94a8909ed9fdfa741a72d6d54bc92330
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1496
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68959985c5110174da0c78b1cf181245
+      internalID: -726238617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1496
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b99e9e4e9effe4fa331275d4f882e1
+      internalID: 2010545520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1496
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d724e2b6d67a6484181ec8a97ad183b3
+      internalID: 1244808262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1496
+        width: 89
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba2c2f5a2d6f7440926393f6741cc5b
+      internalID: -1400819453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1496
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f3492e5493f5147b11bc0104cbc218
+      internalID: 488820947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_5
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1496
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78729af6a7e4d044bf844025df20a6b
+      internalID: -591322930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_6
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1496
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912cdeb71012c8b45a78c4d9fb3f65ec
+      internalID: -1293881566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_7
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1496
+        width: 91
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4381712972ab9004e87a61d32dc5b93a
+      internalID: -983429945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_8
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1546
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8348cdc0a621b94aa1d2d569204d99b
+      internalID: -673350969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_9
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1546
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7306b42c771962f4694786c3271ef5c5
+      internalID: -1132622176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_10
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1480
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ca34b31b8f8e04ca3ea8df034b72cd
+      internalID: 1962644416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_11
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1480
+        width: 172
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22daaa0f82200d040be868a2d83eee88
+      internalID: 37327519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_12
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1480
+        width: 156
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0420f569b0ace6439e9c8a4fea66b5f
+      internalID: -1361803649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_13
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1480
+        width: 167
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c185ac2a02de8784d9177995d432cb03
+      internalID: 1368429952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_14
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1480
+        width: 159
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a159edf6bd738d4428cb9da3bdcbf00b
+      internalID: 1586790864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_15
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1480
+        width: 129
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec501e7d57f8eb54faffe54d9dd0776a
+      internalID: 1065544113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1283
+        width: 105
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9928e6b36efbb47af204dd7fab01d4
+      internalID: 672794324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1279
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701c576fb38e1924db366030ad3a309e
+      internalID: -1162380189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1286
+        width: 173
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17e6b82021a4b643857e0b839ed66ec
+      internalID: 1338698432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_19
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1294
+        width: 150
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107c8d11f0c94c4418bbb09f66e6fecf
+      internalID: -856121927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_20
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1305
+        width: 180
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45447f384b949dc4f859ff50d781081e
+      internalID: 1568123470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_21
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1315
+        width: 196
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be13c987af53c940bc62fca7ea9d339
+      internalID: 1296731414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_22
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1311
+        width: 200
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e73cfe2bca942349867b37d213a3342
+      internalID: -843932134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_23
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1286
+        width: 204
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778807f063013bc4f8c5df32b5c1be80
+      internalID: -393346619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_24
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1303
+        width: 189
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6a31f2b44ce2b44a27280f5a0d0507
+      internalID: 841850993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_25
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1289
+        width: 138
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1ade58b92a8dc46bd095ff35a4d2d5
+      internalID: -1495321992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_26
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1292
+        width: 123
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b70dc9e8f226a641a099ba94256894c
+      internalID: 1318975819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_27
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1285
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2254745cf793feb43899d2a2f0ad4b35
+      internalID: 230137109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1070
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0adae8484a5cb44b4e22867eb85242
+      internalID: 2093103105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1068
+        width: 96
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2bdc99018f19348976181ef82c1d72
+      internalID: -1501045670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_30
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1072
+        width: 110
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804581a52e2185b4cb9fb2d2335ffa3d
+      internalID: -959107435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_31
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1073
+        width: 164
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16c56c387d8413468bb4b6e3b4631ae
+      internalID: 1771420476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_32
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1073
+        width: 185
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f63072c1daca8429bbe59900403b13
+      internalID: -649894647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_33
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1054
+        width: 204
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9ad9eddc6cf9749926a8c4d9b4c082
+      internalID: -858165786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_34
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1060
+        width: 177
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2144a212f09010040a3e5558241d5fc2
+      internalID: -891182257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_35
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1061
+        width: 161
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5744a4913478c8749a3e47e03f207a8c
+      internalID: -836963148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_36
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1062
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfd95004864a624ca26624c854db49d
+      internalID: 801467183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_37
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1151
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e303fd51d175de94ea0c1d24d429ca2f
+      internalID: 1055182928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_38
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1065
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eed515dc75598243b6f9a873b1d2f2f
+      internalID: -1591688099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_39
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1069
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a781fae22e8b2744a962de44df55c207
+      internalID: 1448734079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_40
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1108
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aa6720a61b69e4dab7d65aa6c7c104
+      internalID: 1955742475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_41
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1105
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6662c09ff8417de499e897ac6ac4ceac
+      internalID: -1063301374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_42
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 1101
+        width: 66
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d033811a71a74a644a81131bce5387c5
+      internalID: -802365578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_43
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1087
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4af01ce41bde14fb263ef1b4b87d68
+      internalID: 839796513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_44
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1087
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea7d659ea720e747a68405683faf189
+      internalID: 1497132521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_45
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1084
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebb2c53a5616f642b3501bed2d8a2db
+      internalID: -1032948994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_46
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 1087
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f4cd861bfffab48b95192358ee3c3b
+      internalID: -978296335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_47
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1084
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63691c131c465eb40ba1240162df5616
+      internalID: 2098698177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_48
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1087
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370b5c5f777dfb140840697826a1fb3d
+      internalID: -797538878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_49
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1087
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4b8faefccdc4945b81ac76a5dedc4d
+      internalID: -1476400364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_50
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1069
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c410ee8689a7be04eabff1e766d5849d
+      internalID: -440608396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_51
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1067
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3b45f2f17cb4547a9c8e3d37aa51ba
+      internalID: 89691509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_52
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1066
+        width: 92
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8bb3de27b0016488994d5a18e1b628
+      internalID: 931124247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_53
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1069
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fcceb392453c74c90340e327fae849
+      internalID: 2045011294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_54
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1069
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4d72c73b8a5e14d8520a69b8cc232f
+      internalID: -1084290912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_55
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 864
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0167dce51b61d44966b3f1ddeab371
+      internalID: -1831402834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_56
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 861
+        width: 113
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9a56038910e7042bbbaca1441cf9bd
+      internalID: -1623858742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_57
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 866
+        width: 143
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d016b5115d9a315449a589fc6191bbaa
+      internalID: 683758958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_58
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 866
+        width: 181
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071db538615bdd843be8a561c3592695
+      internalID: -1277616763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_59
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 866
+        width: 210
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11081e812cb9c304297652fafc4001de
+      internalID: -2066640574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_60
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 866
+        width: 234
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2327d9bcd0377b1469dec2377bdc0e90
+      internalID: -1509595042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_61
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 981
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da681964721ba47b0fa20821c573a3
+      internalID: -393766438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_62
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 983
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f1891f575a78e4d80ecab5ac7db07d
+      internalID: 604540135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_63
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 866
+        width: 177
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630c7c0cf40f4574fb29e7f4bb4481ea
+      internalID: -2052498015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_64
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 890
+        width: 31
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f75f4ad6ea87b34daef922766d394f8
+      internalID: 2104692137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_65
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 866
+        width: 121
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90d8d7ce3c747b47a6ae077cc38ed18
+      internalID: -290341568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_66
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 973
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96189e12d3d3334b869911ffe378456
+      internalID: 1895439547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_67
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 866
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c398e0fc311517844aa9b56f69cd5f75
+      internalID: -1742088099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_68
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 923
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2084d3f7a17ca7b438351d291349b3bd
+      internalID: 1465006614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_69
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 923
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3389e59200676948989a7e8809dda6b
+      internalID: 1028715205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_70
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 923
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d8c736e662c214aa9f86396e32e3ca
+      internalID: 636560800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_71
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 923
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852d229548ce5f3458e6bab46ab868eb
+      internalID: 493756563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_72
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 960
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676a0f8008f56c340aab6db3838aeb6c
+      internalID: 687317814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_73
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 923
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c632f27b373cfe34db6101f84bc91cdb
+      internalID: 1048025938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_74
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 931
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361385828d56e924aa1e356dd52a8dca
+      internalID: -628509832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_75
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 932
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda8fcad17f7b9c49a3847bb4daff168
+      internalID: -1442691964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_76
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 925
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9c4b5596c6d3a408e715f56ad2efb1
+      internalID: -1253275780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_77
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 919
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2490abc4dabf74792ae9fcc0a5b06d
+      internalID: 132844038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_78
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 916
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90e4da9cb75ed24bbd5d68d103e2ac9
+      internalID: 1764218670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_79
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 921
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a233680c62ea74c9aab0d98e05e117
+      internalID: -430532058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_80
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 910
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addc819259393ab478f5c0adc9232b29
+      internalID: 1782157744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_81
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 909
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45d826659466b344a6b22f71f15288d
+      internalID: -1142987133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_82
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 901
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a364dc18861a89944843a2a62a865a6d
+      internalID: -1676065284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_83
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 901
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814a08d5e627e464a94eff56bacbdba1
+      internalID: -945200289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 665
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56f4f470223fd34bb13e27a164dd7a4
+      internalID: 400988188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_85
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 665
+        width: 104
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2ec2d740b629545bd3bca5acfcc46c
+      internalID: 1761752290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_86
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 662
+        width: 148
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15929cfd0d91b44f9a64f5dbf28eea7
+      internalID: -191666265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_87
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 658
+        width: 164
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a74e4f540ca801428076bf4cc396fa6
+      internalID: 831852525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_88
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 646
+        width: 186
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33b47b18ac8a404bbd5d73a93d41000
+      internalID: 1508091280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_89
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 661
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6186337575902184bb6bad61ae00ce2b
+      internalID: -477441316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_90
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 769
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6a7448561884447b3eeeac10e0e7ea
+      internalID: 364690245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_91
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 769
+        width: 134
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c85161248bae0c4f8feb1d13d2a30e7
+      internalID: -1822971103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_92
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 646
+        width: 178
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61339a0e64d0b1949a053610b7af5dc9
+      internalID: -823563674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_93
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 651
+        width: 143
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398a10681335e67458deae6adafe2b06
+      internalID: 610888226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_94
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 756
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ec4a5ef91d3774a871b9b641d2f5f0
+      internalID: 1114807887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_95
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 715
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12607a9417692dc4d957b11a88d57e16
+      internalID: 1708948085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_96
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 647
+        width: 175
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e722f39e5c94d240a5035c11c9d92bf
+      internalID: -1481272027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_97
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 669
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad3c4e3403912742a679fd9b84a056f
+      internalID: 1778227264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_98
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 674
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b84ef89283110f4fb4fb4c351d8aee2
+      internalID: 1868690440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_99
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 454
+        width: 185
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf96a7230fb1cb346b6e618565dac53d
+      internalID: 346714660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_100
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 454
+        width: 207
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348bf2a60f1b57144a7c596a131aeafa
+      internalID: 2047556722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_101
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 558
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0614ebb27c19984da34b876bbd4a7a2
+      internalID: -1785304386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_102
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 441
+        width: 203
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e35e2507ccdea34eb81a978154a298b
+      internalID: 1035918977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_103
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 561
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8cd951b547b094f99ed7679646569e
+      internalID: -610013653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_104
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 560
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe893d48758da5f4782dc945d3ebdba7
+      internalID: -742342598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_105
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 576
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275d22895741d0f4d85f025e8119d87b
+      internalID: 83989438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_106
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 579
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda0601ed04ebac4fae2f6e05596448a
+      internalID: 20624591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_107
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 550
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40abbc23e5d8f842a36a2f65ca3fafe
+      internalID: 1829411846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_108
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 445
+        width: 103
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfd0b6013e71104d8558526bf2bc93b
+      internalID: -1752243180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_109
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 472
+        width: 86
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3631761f74dae4ab64798e7d934b0d
+      internalID: -2118445475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_110
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 435
+        width: 202
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a022d266c2d72346b9675a7311e8c1a
+      internalID: 893158945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_111
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 443
+        width: 157
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962bb7ec1b9212d428ed623db2340786
+      internalID: 794444213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_112
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 557
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb978ea00745adf478c034bc886c4e81
+      internalID: -70716787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_113
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 568
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c78712233887f4888ec66f08ffe965
+      internalID: -1225252569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_114
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 443
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7450c91de5686a40af0c1b2c7d55630
+      internalID: -907611861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_115
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 557
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363412bc446631b41ad3be8546018800
+      internalID: 383660138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_116
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 566
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccdccb63f2553447a8c89b76d0bff43
+      internalID: 1450876464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_117
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 569
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5337d9735a5488e4eafa754025979f1f
+      internalID: -1165341072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_118
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 560
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4e026d7a1111845becedc1720d1d3b
+      internalID: 1533462064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_119
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 562
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10945c2f1017c564a91a6df29a26dfbc
+      internalID: 18072167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_120
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 546
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7923cf2f92377eb43a85711e8d21751c
+      internalID: 1927544381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_121
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 534
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d42d04c9d01d4a8f36a2cbf0e0c39
+      internalID: 1214648842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_122
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 534
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4886cca9c9b38e44385a2354fd6e92bc
+      internalID: -88642224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_123
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 516
+        width: 128
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f273617cc0ef24eb0a6761d093142c
+      internalID: 423416880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_124
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 503
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f17c9cc34c31774b88a0e986c2f9b37
+      internalID: -1181229334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_125
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 500
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdd34c5544c39f4abb13128e53f7757
+      internalID: -1942158132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_126
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 503
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d310056b56fc44e992fe26cf923b1d
+      internalID: -725360013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_127
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 483
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b3748fd3a55ff49b2ad02a4200c38b
+      internalID: -2135548901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_128
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 483
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98ff9ceebe4c2540aa46d68a4c537d9
+      internalID: -1771521464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_129
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 487
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e7a06f2d9b0714a927208a96cf38d7
+      internalID: -1532592833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_130
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 266
+        width: 242
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bae275989f87b42a988030aa7aba4e
+      internalID: -1942844774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_131
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 266
+        width: 255
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbf6cec35cd3234185198e6f1524cc5
+      internalID: -900262786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_132
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 266
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df850c27affb9b64bb733ac641ebdc82
+      internalID: -333363624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_133
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 383
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f961414aac4b37469167ca1bf89cf89
+      internalID: -912242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_134
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 251
+        width: 154
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55abeac338bfda54f9d250bf21affe58
+      internalID: -1401312605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_135
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 260
+        width: 176
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd321c9aaf12644ba9786afe7934723
+      internalID: -1261125550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_136
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 262
+        width: 159
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fd98c509f8f73438a8772f4fbbeca2
+      internalID: 522409567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_137
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 374
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc56abfaa23b49140ad118cc7f609cf5
+      internalID: 652431468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_138
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 266
+        width: 176
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4c6f1f2914eee4c92df4b1881462bf
+      internalID: 206788301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_139
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 365
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407a30f2cb70fed4c8af9f5998d7677f
+      internalID: 183160989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_140
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 274
+        width: 30
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4820ee63c7ce0274f9ed7408f24ca1f8
+      internalID: 1630768612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_141
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 331
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e49654b9d6db147a96b6d25fbb254c
+      internalID: -1246964371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_142
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 356
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754fcea1f842aff47b636b1871b46d8a
+      internalID: -523682608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_143
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 263
+        width: 118
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87020f84445f97d4489e652b5ba960fe
+      internalID: 1635511485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_144
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 334
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ca33ef3d2eb9d4d9157d947df5177e
+      internalID: -350590231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_145
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 303
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3c23239f576b44d84132532761c4b1
+      internalID: -1423262684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_146
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 325
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6f3b184e8dc2b4cbf98af2ae632016
+      internalID: -1598313795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_147
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 312
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2c6439a2e56684a93e1a7537b661b9
+      internalID: 2054037087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_148
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 313
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f032ca231db21f64fabcc8a3283d3ff0
+      internalID: 1509571075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_149
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 305
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600b18e2f114f744a8940457832aa134
+      internalID: 868724115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_150
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 301
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c34632fc6b10ad4482c573c9e0315e8
+      internalID: 1486399590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_151
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 294
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a07f07633fe09428b5e762d03fe300
+      internalID: -1276141283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_152
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 294
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c078c03392332445a3ea1a1dfa942e9
+      internalID: -690133125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_153
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 266
+        width: 88
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b746899127429a1459fd0dd903e3d5de
+      internalID: -1901663620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_154
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 266
+        width: 90
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e4d963be41696408a37c3575207175
+      internalID: 976227716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_155
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 186
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77044fbb1dc766e44b7995cf144e3b5d
+      internalID: -906484049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_156
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 29
+        width: 208
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec505c3d039d90a40a51deef57f8e868
+      internalID: -1900194781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_157
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 88
+        width: 169
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bc00bf840898649ba10abd03299c22
+      internalID: 1791580073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_158
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 78
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c64e5bb10191a4fab0361a37633671
+      internalID: -51286865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_159
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 88
+        width: 134
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5338b3198bfed2044888e209da40ee19
+      internalID: -1184292080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_160
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 86
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7396f69e78bd14d8db66b5f59b7bd5
+      internalID: -1261902382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_161
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 73
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7455a67919b2cc74d9a3f33fe41c321c
+      internalID: 400660445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_162
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 83
+        width: 135
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5081c3c330b498d409bc53417f8b6fd8
+      internalID: -1948604107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_163
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 83
+        width: 176
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226c4d7d0870340419557aa914e9d35d
+      internalID: -31309114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_164
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 83
+        width: 176
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bad1f6625f8e814aba330b598d3e3aa
+      internalID: -2146582538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_165
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 83
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16acc159210cf644989eb09be8c04ac
+      internalID: -440884257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_166
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 83
+        width: 159
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35317d6b3d73d75478c26b9a146fcc8d
+      internalID: 1204721846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_167
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 81
+        width: 118
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad8bc61401a95b489394234da86673a
+      internalID: -647295277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_168
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 81
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1b37ba22f5a864d82d051dc65e6e92
+      internalID: -1964308515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_169
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 76
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37434f47dd0d56f45819977d2edaf5f0
+      internalID: -1119375431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_170
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 50
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df87aa735e52ada42ad082d3b7cfcd72
+      internalID: -2107514835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_171
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 74
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6294cee1f5d01eb4ba14fd2679c3d57f
+      internalID: -846755767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_172
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 74
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297d0081089f66240af916cf8d2ba4fa
+      internalID: -777162366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_173
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 72
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db24c140660c8814684ca71403a3dd88
+      internalID: -1489635775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_174
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 36
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c91763cc692b447ba8c73d19a4580b
+      internalID: 1317947451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_175
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6461eca7aa644de42908c589bb75785a
+      internalID: -703155147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_176
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 51
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439f9c9a4d521964db855ceaaf67396c
+      internalID: 601179091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Azure Dragon_177
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 54
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eae4c573481857438f0010f15f9fd02
+      internalID: -822183808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_0: -726238617
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_1: 2010545520
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_10: 1962644416
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_100: 2047556722
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_101: -1785304386
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_102: 1035918977
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_103: -610013653
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_104: -742342598
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_105: 83989438
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_106: 20624591
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_107: 1829411846
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_108: -1752243180
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_109: -2118445475
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_11: 37327519
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_110: 893158945
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_111: 794444213
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_112: -70716787
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_113: -1225252569
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_114: -907611861
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_115: 383660138
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_116: 1450876464
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_117: -1165341072
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_118: 1533462064
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_119: 18072167
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_12: -1361803649
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_120: 1927544381
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_121: 1214648842
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_122: -88642224
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_123: 423416880
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_124: -1181229334
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_125: -1942158132
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_126: -725360013
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_127: -2135548901
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_128: -1771521464
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_129: -1532592833
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_13: 1368429952
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_130: -1942844774
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_131: -900262786
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_132: -333363624
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_133: -912242
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_134: -1401312605
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_135: -1261125550
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_136: 522409567
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_137: 652431468
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_138: 206788301
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_139: 183160989
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_14: 1586790864
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_140: 1630768612
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_141: -1246964371
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_142: -523682608
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_143: 1635511485
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_144: -350590231
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_145: -1423262684
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_146: -1598313795
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_147: 2054037087
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_148: 1509571075
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_149: 868724115
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_15: 1065544113
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_150: 1486399590
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_151: -1276141283
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_152: -690133125
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_153: -1901663620
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_154: 976227716
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_155: -906484049
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_156: -1900194781
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_157: 1791580073
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_158: -51286865
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_159: -1184292080
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_16: 672794324
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_160: -1261902382
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_161: 400660445
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_162: -1948604107
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_163: -31309114
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_164: -2146582538
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_165: -440884257
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_166: 1204721846
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_167: -647295277
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_168: -1964308515
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_169: -1119375431
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_17: -1162380189
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_170: -2107514835
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_171: -846755767
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_172: -777162366
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_173: -1489635775
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_174: 1317947451
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_175: -703155147
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_176: 601179091
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_177: -822183808
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_18: 1338698432
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_19: -856121927
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_2: 1244808262
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_20: 1568123470
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_21: 1296731414
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_22: -843932134
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_23: -393346619
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_24: 841850993
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_25: -1495321992
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_26: 1318975819
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_27: 230137109
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_28: 2093103105
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_29: -1501045670
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_3: -1400819453
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_30: -959107435
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_31: 1771420476
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_32: -649894647
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_33: -858165786
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_34: -891182257
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_35: -836963148
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_36: 801467183
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_37: 1055182928
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_38: -1591688099
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_39: 1448734079
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_4: 488820947
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_40: 1955742475
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_41: -1063301374
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_42: -802365578
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_43: 839796513
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_44: 1497132521
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_45: -1032948994
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_46: -978296335
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_47: 2098698177
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_48: -797538878
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_49: -1476400364
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_5: -591322930
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_50: -440608396
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_51: 89691509
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_52: 931124247
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_53: 2045011294
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_54: -1084290912
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_55: -1831402834
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_56: -1623858742
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_57: 683758958
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_58: -1277616763
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_59: -2066640574
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_6: -1293881566
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_60: -1509595042
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_61: -393766438
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_62: 604540135
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_63: -2052498015
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_64: 2104692137
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_65: -290341568
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_66: 1895439547
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_67: -1742088099
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_68: 1465006614
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_69: 1028715205
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_7: -983429945
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_70: 636560800
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_71: 493756563
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_72: 687317814
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_73: 1048025938
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_74: -628509832
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_75: -1442691964
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_76: -1253275780
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_77: 132844038
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_78: 1764218670
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_79: -430532058
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_8: -673350969
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_80: 1782157744
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_81: -1142987133
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_82: -1676065284
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_83: -945200289
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_84: 400988188
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_85: 1761752290
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_86: -191666265
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_87: 831852525
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_88: 1508091280
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_89: -477441316
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_9: -1132622176
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_90: 364690245
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_91: -1822971103
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_92: -823563674
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_93: 610888226
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_94: 1114807887
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_95: 1708948085
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_96: -1481272027
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_97: 1778227264
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_98: 1868690440
+      PC Computer - Heroes of Might and Magic 3 - Azure Dragon_99: 346714660
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
